@@ -1,9 +1,7 @@
 # iOS-Animation-Easing
 
+my first edit readme with markdown code
 
-
-
-test
-
-test 3
-test 4
+```swift
+let alert = UIAlertController(style: .alert, title: "Title")
+ 
